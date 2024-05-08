@@ -1,0 +1,412 @@
+{
+    "botA1": {
+        "account_password": "justice2023!",
+        "age": "16",
+        "user_name": "brian.waters5",
+        "dob": "05/20/2007",
+        "interests": {
+            "creators": ["cbc","cnn","bbc","aljazeera","nytimes","washingtonpost","reuters","guardian"],
+            "tags": ["#waringaza","gaza","#genocide", "politics","iran","hamas",
+            "#freepalestine","#genocideingaza","memes"
+            ]
+        }
+    },
+    "botA2": {
+        "account_password": "beach_queen123",
+        "age": "17",
+        "user_name": "patpomkkcbg",
+        "dob": "04/30/2006",
+        "interests": {
+            "creators": [
+                "cbc",
+                "cnn",
+                "bbc",
+                "aljazeera",
+                "nytimes",
+                "washingtonpost",
+                "reuters",
+                "guardian"
+            ],
+            "tags": [
+                "#waringaza",
+                "gaza",
+                "#genocide",
+                "politics",
+                "iran",
+                "hamas",
+                "#freepalestine",
+                "#genocideingaza",
+                "fyp",
+                "dance"
+            ]
+        }
+    },
+    "botA3": {
+        "account_password": "dogs_cats11",
+        "age": "17",
+        "user_name": "damian.phillips97",
+        "dob": "06/10/2006",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA4": {
+        "account_password": "captain?fluff200",
+        "age": "18",
+        "user_name": "tiana.kate",
+        "dob": "02/09/2006",
+        "interests": {
+            "creators": [
+                "cbc",
+                "cnn",
+                "bbc",
+                "aljazeera",
+                "nytimes",
+                "washingtonpost",
+                "reuters",
+                "guardian"
+            ],
+            "tags": [
+                "#waringaza",
+                "gaza",
+                "#genocide",
+                "politics",
+                "iran",
+                "hamas",
+                "#freepalestine",
+                "#genocideingaza"
+            ]
+        },
+        "watch_num": [
+            0,
+            0
+        ]
+    },
+    "botA5": {
+        "account_password": "vampire34?",
+        "age": "18",
+        "user_name": "teddy.munchkin",
+        "dob": "01/01/2006",
+        "interests": {
+            "creators": [
+                "cbc",
+                "cnn",
+                "bbc",
+                "aljazeera",
+                "nytimes",
+                "washingtonpost",
+                "reuters",
+                "guardian"
+            ],
+            "tags": [
+                "#waringaza",
+                "gaza",
+                "#genocide",
+                "politics",
+                "iran",
+                "hamas",
+                "#freepalestine",
+                "#genocideingaza"
+            ]
+        },
+        "watch_num": [
+            0,
+            9
+        ]
+    },
+    "botA6": {
+        "account_password": "cardigan12/",
+        "age": "19",
+        "user_name": "puri.guffaw",
+        "dob": "06/30/2004",
+        "interests": {
+            "creators": [
+                "cbc",
+                "cnn",
+                "bbc",
+                "aljazeera",
+                "nytimes",
+                "washingtonpost",
+                "reuters",
+                "guardian"
+            ],
+            "tags": [
+                "#waringaza",
+                "gaza",
+                "#genocide",
+                "politics",
+                "iran",
+                "hamas",
+                "#freepalestine",
+                "#genocideingaza"
+            ]
+        },
+        "watch_num": [
+            16,
+            0
+        ]
+    },
+    "botA7": {
+        "account_password": "speakNow!4",
+        "age": "19",
+        "user_name": "cofhezri6cv",
+        "dob": "09/30/2004",
+        "interests": {
+            "creators": [
+                "cbc",
+                "cnn",
+                "bbc",
+                "aljazeera",
+                "nytimes",
+                "washingtonpost",
+                "reuters",
+                "guardian"
+            ],
+            "tags": [
+                "#waringaza",
+                "gaza",
+                "#genocide",
+                "politics",
+                "iran",
+                "hamas",
+                "#freepalestine",
+                "#genocideingaza"
+            ]
+        },
+        "watch_num": [
+            0,
+            0
+        ]
+    },
+    "botA8": {
+        "account_password": "corneliaStreet@7",
+        "age": "19",
+        "user_name": "heath.potomac",
+        "dob": "12/30/2004",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA9": {
+        "account_password": "fearless345(",
+        "age": "19",
+        "user_name": "dasziiva6jc",
+        "dob": "03/01/2005",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA10": {
+        "account_password": "karma_is_my_fren6",
+        "age": "19",
+        "user_name": "kameron.fannita",
+        "dob": "12/01/2004",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA11": {
+        "account_password": "reputation545/",
+        "age": "19",
+        "user_name": "sinfappl5hc",
+        "dob": "09/01/2004",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA12": {
+        "account_password": "DogPerson2020?",
+        "age": "20",
+        "user_name": "riri66551",
+        "dob": "",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA13": {
+        "account_password": "pitbull34(",
+        "age": "20",
+        "user_name": "vinnyloft",
+        "dob": "4/30/2003",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA14": {
+        "account_password": "sodaPop23!",
+        "age": "20",
+        "user_name": "susan.padre",
+        "dob": "7/30/2003",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA15": {
+        "account_password": "alfredoCream56!",
+        "age": "20",
+        "user_name": "jo.total",
+        "dob": "10/30/2003",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA16": {
+        "account_password": "Basil20)",
+        "age": "20",
+        "user_name": "brittany.avery7",
+        "dob": "1/1/2004",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA17": {
+        "account_password": "Celia2:)",
+        "age": "20",
+        "user_name": "ceciliajones04",
+        "dob": "4/1/2004",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA18": {
+        "account_password": "calc3ready?",
+        "age": "20",
+        "user_name": "pamela_smith48",
+        "dob": "12/1/2003",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA19": {
+        "account_password": "rif:tiktok0",
+        "age": "20",
+        "user_name": "rifda_em",
+        "dob": "10/8/2003",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA20": {
+        "account_password": "Italy999/",
+        "age": "21",
+        "user_name": "valencia_t2",
+        "dob": "04/30/2002",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA21": {
+        "account_password": "Nunavut(5)",
+        "age": "21",
+        "user_name": "nate_man9",
+        "dob": "07/30/2002",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA22": {
+        "account_password": "Mariahcarey1.",
+        "age": "21",
+        "user_name": "pauline.du8",
+        "dob": "10/30/2002",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA23": {
+        "account_password": "Chrome21?",
+        "age": "21",
+        "user_name": "ella.h016",
+        "dob": "01/01/2003",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA24": {
+        "account_password": "iCloud/10",
+        "age": "21",
+        "user_name": "george.ur",
+        "dob": "03/30/2003",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA25": {
+        "account_password": "eat/craving3",
+        "age": "21",
+        "user_name": "cesar.z4",
+        "dob": "11/01/2002",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA26": {
+        "account_password": "SineWave;1",
+        "age": "22",
+        "user_name": "tora14557",
+        "dob": "06/30/2001",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA27": {
+        "account_password": "airpods4music.",
+        "age": "22",
+        "user_name": "louis_cor2",
+        "dob": "02/01/2002",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA28": {
+        "account_password": "",
+        "age": "22",
+        "user_name": "",
+        "dob": "11/30/2001",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA29": {
+        "account_password": "theWeeknd7?",
+        "age": "23",
+        "user_name": "nickapo1",
+        "dob": "03/01/2001",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    },
+    "botA30": {
+        "account_password": "tik2night@",
+        "age": "24",
+        "user_name": "merek.low",
+        "dob": "03/01/2000",
+        "interests": {
+            "creators": [],
+            "tags": []
+        }
+    }
+}
