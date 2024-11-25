@@ -16,16 +16,19 @@ The experiment was conducted in various sessions involving [bots](https://github
 We conducted a survey on TikTok users to collect data of TikTok usage behaviors in order to cross-reference with our experiment results and test our hypothesis. Description of the survey setup can be found on the report. The survey results can be found [here](https://github.com/ArpanSaha07/Siloing-of-Political-Thought-in-TikTok/tree/main/survey_results).
 
 ## Bot Algorithm
-The [algorithm description](https://github.com/ArpanSaha07/Siloing-of-Political-Thought-in-TikTok/blob/main/diagrams/bot_diagram.png) and implementation of our bot . Detailed explanation can also be found on the report.
+[Here](https://github.com/ArpanSaha07/Siloing-of-Political-Thought-in-TikTok/blob/main/diagrams/bot_diagram.png) you can find an overview of the algorithm used to dictate the TikTok usage behaviours of the bots during the experiments. Detailed explanation of the algorithm, the login and data scrapper code, and implementation of the bots can be found on the report.
 
 ## Results
-The results after running the bot algorithms can be found in this [folder](https://github.com/ArpanSaha07/Siloing-of-Political-Thought-in-TikTok/tree/main/video_watch_info). The results were used to test our hypothesis and form conclusions.
+The data and statistics of TikTok usage by the bot algorithms can be found in this [folder](https://github.com/ArpanSaha07/Siloing-of-Political-Thought-in-TikTok/tree/main/video_watch_info). The data were used to test our hypothesis and form conclusions.
 
 ## Running the script
-If you are interested in running the bot algorithm: 
+If you are interested in running the bot algorithm:
+
 You need to install an internet browser app and create a TikTok account before running the script.
 
-The data scrapper has been tested to run TikTok in the Chrome browser (version=124) and TikTok (version from April 2024). The HTML tags in the code might need to be tweaked to run more recent versions of TikTok or to run in a different browser.
+The data scrapper has been tested to run TikTok in the Chrome browser (version=124) and TikTok (version from April 2024). 
+
+The HTML tags in the code might need to be tweaked to run more recent versions of TikTok or to run in a different browser.
 Enter the following commands in the command line:
 ```
 pip install -r requirements.txt
