@@ -27,9 +27,9 @@ if __name__ == '__main__':
     with open('./bot_info/bots.json', 'r') as f:
         data = json.load(f)
 
-    rapid_api_key = "4f27a8ab6fmsh8001668bdbc41fap1622aajsn81fad42506f9"  # Your rapidapi key
-    tiktok_username = data[args.b]['user_name']            # Your Username from TikTok Account
-    tiktok_password = data[args.b]['account_password']    # Your Password from TikTok Account
+    rapid_api_key = "your_rapid_api_key"
+    tiktok_username = data[args.b]['user_name']            # Your TikTok Username
+    tiktok_password = data[args.b]['account_password']    # Your TikTok Password
 
 
     logger = logging.Logger('catch_all')
